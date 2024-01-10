@@ -1,0 +1,25 @@
+.body{
+    font-family: sans-serif;
+    text-align: center;
+    padding: 30px;
+    background-color: aquamarine;
+}
+h1{
+    margin-bottom: 20px;
+}
+#word-container{
+    margin-bottom: 20px;
+}
+#Raad-input{
+    padding: 15px;
+}
+button{
+    padding: 30px 40px;
+    background-color: aqua;
+    border: 0px;
+    cursor: pointer;
+}
+#message{
+    margin-top: 40px;
+    font-weight: bold;
+}
